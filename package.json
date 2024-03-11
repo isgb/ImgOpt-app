@@ -9,5 +9,8 @@
   },
   "keywords": [],
   "author": "ISGB",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "fs-extra": "^11.2.0"
+  }
 }

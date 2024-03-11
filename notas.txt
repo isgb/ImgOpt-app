@@ -1,0 +1,2 @@
+npm i fs-extra -D
+npm i -D imagemin imagemin-jpegtran imagemin-pngquant imagemin-svg imagemin-webp
