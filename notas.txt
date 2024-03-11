@@ -1,2 +1,5 @@
 npm i fs-extra -D
 npm i -D imagemin imagemin-jpegtran imagemin-pngquant imagemin-svg imagemin-webp
+
+https://www.youtube.com/watch?v=0f26_Enlv38&t=14727s
+6:47:20 
