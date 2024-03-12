@@ -33,8 +33,10 @@ const processImg = async () => {
                 ]
             });
 
-            console.log("ha terminado con exito el proceso de optimizar tus imagenes")
+            console.log(`SE HA OPTIMIZADO LA IMAGEN: ${file}`)
         }
+
+        console.log(`SE HA TERMINADO LA OPTIMIZACIÓN DE TODAS TUS IMAGENES`)
 
     } catch (error) {
         console.log(error)
