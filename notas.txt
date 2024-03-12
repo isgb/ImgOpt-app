@@ -1,5 +1,6 @@
 npm i fs-extra -D
 npm i -D imagemin imagemin-jpegtran imagemin-pngquant imagemin-svgo imagemin-webp imagemin-gifsicle sharp
+npm install --force @img/sharp-win32-x64
 
 https://www.youtube.com/watch?v=0f26_Enlv38&t=14727s
 6:47:20 
