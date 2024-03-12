@@ -20,7 +20,7 @@ const processImg = async () => {
             let inputPath = `${inputFolder}/${file}`; 
             let outputPath = `${outputFolder}/${file}`;
 
-            await sharp(inputPath).resize(targetWidth).toFile(outputFolder);
+            await sharp(inputPath).resize(targetWidth).toFile(outputPath);
 
             await imagemin([outputPath],{
                 destination: outputFolder,
